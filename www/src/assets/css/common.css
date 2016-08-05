@@ -1,0 +1,12 @@
+td input {
+    border: none;
+}
+td input:focus {
+    outline: none;
+}
+.nomargin {
+    margin: 0;
+}
+.width-100{
+    width: 100%;
+}
